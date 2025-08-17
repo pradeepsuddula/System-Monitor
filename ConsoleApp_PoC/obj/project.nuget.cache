@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPIoneliaiE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svish\\Downloads\\ConsoleProjects\\ConsoleProjects\\ConsoleApp_PoC\\ConsoleApp_PoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svish\\.nuget\\packages\\system.codedom\\9.0.8\\system.codedom.9.0.8.nupkg.sha512",
+    "C:\\Users\\svish\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\svish\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\svish\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\svish\\.nuget\\packages\\system.management\\9.0.8\\system.management.9.0.8.nupkg.sha512",
+    "C:\\Users\\svish\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
